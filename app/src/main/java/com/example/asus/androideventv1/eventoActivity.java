@@ -149,7 +149,7 @@ public class eventoActivity extends AppCompatActivity implements View.OnClickLis
         ((TextView) findViewById(R.id.txtGenre)).setText(pelicula.getLugar());
         ((TextView) findViewById(R.id.txtRuntime)).setText(pelicula.getCategoria());
 
-
+123456789
     }
 
 */
