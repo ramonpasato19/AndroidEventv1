@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/usuario"
+            android:title="Mi Profile" />
+        <item
+            android:id="@+id/nav_evento"
+            android:icon="@drawable/evento1"
+            android:title="Eventos" />
+
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/map"
+            android:title="Google Maps" />
+
+            <item
+                android:id="@+id/nav_nosotros"
+                android:icon="@drawable/nosotros"
+                android:title="Nosotros" />
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/salir1"
+                android:title="Salir" />
+
+
+</group>
+</menu>

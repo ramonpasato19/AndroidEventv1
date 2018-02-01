@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">GuambraRaymi</string>
+    <string name="lbl_proyecto">!Aplicaciones Distribuidas!</string>
+    <string name="action_español">Español</string>
+    <string name="action_ingles">English</string>
+    <string name="action_frances">France</string>
+    <string name="menu_nuevo">nuevo</string>
+    <string name="lbl_actor">Actor principal:</string>
+    <string name="lbl_titulo">Título:</string>
+    <string name="lbl_fecha">Visto el:</string>
+    <string name="lbl_ciudad">Ciudad:</string>
+    <string name="lbl_fotografia">Tomar fotografía</string>
+    <string name="lbl_guardar">Guardar</string>
+    <string name="lbl_buscar">título a buscar...</string>
+    <string name="titulo_activity_pelicula">Agregar película</string>
+    <string name="titulo_activity_pelicula_buscar">OMDApi Buscar</string>
+    <string name="msj_error_clienrest">Error al conusltar servicio de OMDBApi, posibles problemas de conexión</string>
+    <string name="msj_error_clienrests">Error consultar DB</string>
+    <string name="msj_error_wscancelado">Error al consultar, proceso cancelado, posible perdida de conexión con servidor.</string>
+    <string name="msj_error_formatorespuesta">Error en consulta de servicio OMDBApi.  (posible error de formato).</string>
+    <string name="msj_error_busquedavacia">Criterio de busqueda no dió resultados, intentente con otro valor.</string>
+    <string name="title_activity_detalle_pelicula_om">Detalle</string>
+    <string name="lbl_actors">Actores:</string>
+    <string name="lbl_released">Lanzamiento:</string>
+    <string name="lbl_director">Director:</string>
+    <string name="lbl_genero">Genero:</string>
+    <string name="lbl_plot">Descripción:</string>
+    <string name="lbl_runtime">Tiempo:</string>
+    <string name="lbl_seleccionar">Seleccionar</string>
+    <string name="lbl_en">en</string>
+    <string name="msj_insert_correcto">Pelicula guardada satisfactoriamente</string>
+    <string name="msj_update_correcto">Cambios en película guardados satisfactoriamente</string>
+    <string name="lbl_msj_confirmacion">Mensaje de confirmación</string>
+    <string name="lbl_pregunta_salir">\"¿Estás seguro que desea finalizar la aplicacion?\"</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="lbl_pregunta_guardar">¿Esta seguro de los datos a guardar?</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="msj_remove_correcto">Película borrada satisfactoriamente.</string>
+    <string name="lbl_pregunta_eliminar">¿Esta seguro de eliminar los datos de película?</string>
+    <string name="msj_actividad_buscar">Para consultar peliculas escriba una palabra del título de la misma y presione el boton buscar.</string>
+    <string name="mnu_espanol">Español</string>
+    <string name="mnu_ingles">Ingles</string>
+    <string name="mnu_frances">Frances</string>
+    <string name="title_activity_login">Logueo</string>
+    <string name="titulo_registro">Registro</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_register_user">activity_register_user</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <!-- Strings de compañeros-->
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registros">Registros</string>
+    <string name="title_item_list">Categoria</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_evento">eventoActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nosotros">Nosotros</string>
+    <string-array name="map_types_list">
+        <item>None</item>
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+</resources>
