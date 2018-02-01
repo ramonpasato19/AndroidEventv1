@@ -166,7 +166,7 @@ public class eventoActivity extends AppCompatActivity implements View.OnClickLis
         Toast toast = Toast.makeText(this, mensaje, Toast.LENGTH_LONG );
         toast.show();
         startSplash();
-
+hola
     }*/
     private Toast mToastToShow;
     private void showMensaje(String mensaje){
